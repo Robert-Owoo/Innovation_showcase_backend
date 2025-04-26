@@ -15,11 +15,11 @@ A web platform for students to submit, browse, and showcase innovative projects.
 
 ## Login Details (Demo)
 - **Student:**
-  - Username: `testuser@example.com`
-  - Password: `password123`
+  - Username: `tyrone@gmail.com`
+  - Password: `12345678`
 - **Admin:**
-  - Username: `admin@example.com`
-  - Password: `admin123`
+  - Username: `jerome@gmail.com`
+  - Password: `12345678`
 
 ---
 
@@ -79,12 +79,7 @@ npm start
 ### 4. Environment Variables
 - Configure backend environment variables if needed (e.g., JWT secret, database URL)
 
----
 
-## Notes
-- Do not commit `node_modules/` to your repository. Use `.gitignore`.
-- For demo login, use the credentials above or register a new account.
-- For deployment, update the deployment links above with your actual URLs.
 
 ---
 
