@@ -1,0 +1,91 @@
+[
+  {
+    "id": "1",
+    "title": "Smart Home Automation System",
+    "description": "An innovative IoT-based home automation system that allows users to control their home appliances remotely using a mobile app. Features include energy monitoring, security integration, and voice control capabilities.",
+    "category": "IoT",
+    "imageUrl": "/uploads/sample-project.jpg",
+    "userId": "1",
+    "createdAt": "2024-04-21T12:00:00.000Z",
+    "status": "approved",
+    "tags": [
+      "IoT",
+      "Home Automation",
+      "Mobile App",
+      "Energy Efficiency"
+    ]
+  },
+  {
+    "id": "1745361428337",
+    "title": "asdas",
+    "description": "asdas",
+    "category": "asd",
+    "imageUrl": null,
+    "userId": "1745361398007",
+    "createdAt": "2025-04-22T22:37:08.337Z",
+    "status": "approved"
+  },
+  {
+    "id": "1745361812504",
+    "title": "water project",
+    "description": "thsi is a water project with sdasjdkasd",
+    "category": "i.t",
+    "imageUrl": null,
+    "userId": "1745361398007",
+    "createdAt": "2025-04-22T22:43:32.504Z",
+    "status": "approved"
+  },
+  {
+    "id": "1745521277676",
+    "title": "how to save energy efficiently",
+    "description": "this is basically a project on how to save energy",
+    "category": "i.ot,ai,ml",
+    "imageUrl": null,
+    "userId": "1745361398007",
+    "createdAt": "2025-04-24T19:01:17.676Z",
+    "status": "rejected"
+  },
+  {
+    "id": "1745580326097",
+    "title": "hjghk",
+    "description": "hjgj",
+    "category": "ai",
+    "imageUrl": null,
+    "userId": "1745361398007",
+    "createdAt": "2025-04-25T11:25:26.097Z",
+    "status": "rejected"
+  },
+  {
+    "id": "1745605088221",
+    "title": "help",
+    "description": "hewer",
+    "category": "ai",
+    "imageUrl": null,
+    "userId": "1745335126470",
+    "createdAt": "2025-04-25T18:18:08.221Z",
+    "status": "approved"
+  },
+  {
+    "id": "1745605329683",
+    "title": "when",
+    "description": "whew",
+    "category": "shsa",
+    "imageUrl": null,
+    "userId": "1745605292583",
+    "createdAt": "2025-04-25T18:22:09.683Z",
+    "status": "approved"
+  },
+  {
+    "id": "1745675440016",
+    "title": "kolos",
+    "description": "adey on kolos",
+    "category": "weed",
+    "tags": [
+      "higgh grade weed"
+    ],
+    "video_link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    "userId": "1745675400967",
+    "createdAt": "2025-04-26T13:50:40.016Z",
+    "status": "rejected"
+  }
+]
