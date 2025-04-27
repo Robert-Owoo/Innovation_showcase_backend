@@ -8,7 +8,7 @@ const jwt = require('jsonwebtoken');
 const adminRoutes = require('./routes/admin');
 
 const app = express();
-const PORT = 5000;
+const PORT = process.env.PORT || 5000;
 const JWT_SECRET = 'your-secret-key';
 
 // Middleware
@@ -373,16 +373,13 @@ app.use('/api/admin', adminRoutes);
 
 // Initialize data files and start server
 initializeDataFiles().then(() => {
-    const server = app.listen(PORT, '0.0.0.0', () => {
+    const server = app.listen(PORT, () => {
         console.log(`Server is running on port ${PORT}`);
     });
 
-    // Handle server errors
     server.on('error', (error) => {
         console.error('Server error:', error);
-        // Don't exit on server error
     });
 }).catch((error) => {
     console.error('Startup error:', error);
-    // Don't exit on startup error
 });
